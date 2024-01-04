@@ -1,4 +1,4 @@
-# AEM3103 - Homework 1
+# AEM 3103 - Homework 1
 
 The following problems are from Appendix A of the course textbook.
 
@@ -11,4 +11,10 @@ The following problems are from Appendix A of the course textbook.
 
 ## Submission Instructions
 
-*TBD*
+Two components are needed:
+1. Standalone and self explanatory results in a viewable format.
+2. Source code that can be run to (re)generate the results.
+
+Examples of ways to achieve this are:
+- Python: Committing a Jupyter Notebook
+- Matlab: Committing a live script and the PDF printout of results
